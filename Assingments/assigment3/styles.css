@@ -12,15 +12,20 @@ body {
   background-repeat: no-repeat;
   z-index: -10000;
 }
+
+/*styling the header*/
 header {
   text-align: center;
   margin: 1rem 1rem;
   font-size: 2.5rem;
   color: white;
 }
+/* main section*/
 main {
   margin: 0 auto;
 }
+
+/*recipe card*/
 .recipe {
   background-color: white;
   width: 600px;
